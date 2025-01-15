@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Chris]!
+# 👋 Hi, I'm Chris!
 
 I'm currently a [Senior Data Scientist](https://www.linkedin.com/in/christopher-ogrady/) at the [Cell and Gene Therapy Catapult](https://ct.catapult.org.uk/). 
 
