@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Chris!
 
-I'm currently a [Senior Data Scientist](https://www.linkedin.com/in/christopher-ogrady/) at the [Cell and Gene Therapy Catapult](https://ct.catapult.org.uk/). 
+I'm currently a [Senior Data Scientist](https://www.linkedin.com/in/christopher-ogrady/) working at the [Cell and Gene Therapy Catapult](https://ct.catapult.org.uk/). 
+Previously, I finished a PhD in microbial genetics at the University of Warwick. 
+I'm interested in utilizing machine learning in -omics data and multi-omics techniques.
 
 
 ## 📊 GitHub Stats
