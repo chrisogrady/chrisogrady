@@ -9,5 +9,9 @@ I'm interested in utilizing machine learning in -omics data and multi-omics tech
 
 ![Chris O'Grady's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisogrady&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
+![Chris O'Grady's GitHub Stats](https://raw.githubusercontent.com/chrisogrady/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
+![Chris O'Grady's GitHub Stats](https://raw.githubusercontent.com/chrisogrady/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 
 
